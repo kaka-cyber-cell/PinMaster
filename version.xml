@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.0.0.1</version>
+    
+  <url>https://www.baidu.com/</url>
+    
+  <changelog>https://github.com/</changelog>
+    
+  <mandatory>true</mandatory>
+</item>
