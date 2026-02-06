@@ -2,12 +2,13 @@
 <item>
   <version>2.0</version>
     
-  <url>https://github.com/kaka-cyber-cell/PinMaster/releases/download/v2.0/PinMasterAI_Setup.exe</url>
+  <url>https://github.com/kaka-cyber-cell/PinMaster/releases/latest/download/PinMasterAI_Setup.exe</url>
     
   <changelog>https://github.com/kaka-cyber-cell/PinMaster/releases</changelog>
     
  <mandatory>false</mandatory>
 </item>
+
 
 
 
